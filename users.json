@@ -1,0 +1,18 @@
+[
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "juan@example.com",
+        "first_name": "Juan",
+        "last_name": "Mu\u00f1oz",
+        "birth_date": "2021-12-11",
+        "password": "holamundo"
+    },
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+        "email": "pablo@example.com",
+        "first_name": "Pablo",
+        "last_name": "Buitrago",
+        "birth_date": "2020-11-11",
+        "password": "aliciadasa"
+    }
+]

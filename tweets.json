@@ -1,0 +1,14 @@
+[
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+        "content": "First tweet in history",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "email": "juan@example.com",
+            "first_name": "Juan",
+            "last_name": "Mu\u00f1oz",
+            "birth_date": "2021-12-11"
+        },
+        "created": "2021-12-11 13:33:39.881564"
+    }
+]
